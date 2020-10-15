@@ -1,0 +1,3 @@
+/home/pietro/Documents/Programming/Attalo/build/CMakeFiles/rebuild_cache.dir
+/home/pietro/Documents/Programming/Attalo/build/CMakeFiles/Attalo.dir
+/home/pietro/Documents/Programming/Attalo/build/CMakeFiles/edit_cache.dir
